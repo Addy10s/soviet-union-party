@@ -3,7 +3,7 @@ import { resolve } from '$app/paths';
 </script>
 <nav
 	id="global-navbar"
-	class="group bg-red-600 text-yellow-400 *:text-shadow-ctp-base z-100 mx-auto table content-center space-x-0 rounded-xl px-2 py-1 text-center text-[4vw] shadow-2xl *:rounded-md *:px-3 *:py-1 *:align-middle lg:rounded-[3rem] lg:text-[3rem]"
+	class="my-8 group bg-red-600 text-yellow-400 *:text-shadow-ctp-base z-100 mx-auto table content-center space-x-0 rounded-xl px-2 py-1 text-center text-[4vw] shadow-2xl *:rounded-md *:px-3 *:py-1 *:align-middle lg:rounded-[3rem] lg:text-[3rem]"
 >
 	<a
 		href={resolve("/")}

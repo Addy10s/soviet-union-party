@@ -1,7 +1,7 @@
 <div class="grid grid-cols-2 gap-4 w-[80%] m-20 ">
     <div>
         <img
-            src="/src/lib/assets/soviet-administrative-divisions.jpg"
+            src="https://www.vidiani.com/maps/maps_of_europe/maps_of_russia/large_detailed_administrative_divisions_map_of_Soviet_Union_1989_1.jpg"
             alt="Administrative Divisions of the Soviet Union"
             width="500"
         />
