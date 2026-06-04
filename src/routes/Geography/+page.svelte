@@ -1,7 +1,7 @@
 <div class="grid grid-cols-2 gap-4 w-[80%] m-20 ">
     <div>
         <img
-            src="https://www.vidiani.com/maps/maps_of_europe/maps_of_russia/large_detailed_administrative_divisions_map_of_Soviet_Union_1989_1.jpg"
+            src="https://cdn.hackclub.com/019e90eb-6f46-7661-89cd-6436c5a013d4/image.png"
             alt="Administrative Divisions of the Soviet Union"
             width="500"
         />
@@ -14,7 +14,7 @@
     </div>
 
     <div>
-        <h1 class="text-7xl font-semibold m-10">Geography</h1>
+        <h1 class="text-5xl font-semibold m-10">Geography</h1>
         <p class="text-3xl font-normal">
             The largest, most powerful and only places tourists would commonly be allowed to go to is Moscow and Leningrad(which is now St Petersburg), and there was a very large Public Transit System.
             At the peak of the USSR, it spanned 11 timezones, but couldn't grow crops often, and few crops could be grown, due to the  long winters. There were also large amounts of resources, such as coal, iron, oil, natural gas. Most people lived on the West end of the country, near Moscow.

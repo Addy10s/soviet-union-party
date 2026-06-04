@@ -1,5 +1,5 @@
 <div>
-    <h1 class="text-7xl font-semibold m-10">Africa, and Trade</h1>
+    <h1 class="text-5xl font-semibold m-10">Africa, and Trade</h1>
     <p class="text-3xl font-normal m-7">
         Trading was often between similar groups, such as islamic countries trading with other islamic countries was often very impactful to the success of a concept.
 
@@ -11,7 +11,7 @@
 </div>
 
     <div>
-    <h1 class="text-7xl font-semibold m-10">The Fall of Rome</h1>
+    <h1 class="text-5xl font-semibold m-10">The Fall of Rome</h1>
     <p class="text-3xl font-normal m-7">
         There were issues with sustaining a military.
 

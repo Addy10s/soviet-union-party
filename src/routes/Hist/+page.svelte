@@ -15,7 +15,7 @@
     </div>
 
     <div>
-        <h1 class="text-7xl font-semibold m-10">History and Achievements</h1>
+        <h1 class="text-5xl font-semibold m-10">History and Achievements</h1>
         <p class="text-3xl font-normal">
             There was little to no poverty or hunger, everyone was fully literate, had very strong worker's rights, with workers able to fire managers if they acted poorly, along with very little racism or misogyny within the USSR, they built the first satellite, along with the first person to go to space, Iurii(also called Yuri) Gagarin. They also had a very strong nuclear program, building the first thermonuclear bomb, along with the first nuclear power plant that was used for civilian power, which was built in 1954 and used until 2002, without any incidents.
 

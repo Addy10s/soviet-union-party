@@ -3,11 +3,11 @@ import { resolve } from '$app/paths';
 </script>
 <nav
 	id="global-navbar"
-	class="my-8 group bg-red-600 text-yellow-400 *:text-shadow-ctp-base z-100 mx-auto table content-center space-x-0 rounded-xl px-2 py-1 text-center text-[3.5vw] shadow-2xl *:rounded-md *:px-3 *:py-1 *:align-middle lg:rounded-[3rem] lg:text-[2.5rem]"
+	class="my-8 group bg-red-600 text-yellow-400 *:text-shadow-ctp-base z-100 mx-auto table content-center space-x-0 rounded-xl px-2 py-1 text-center text-[2.75vw] shadow-2xl *:rounded-md *:px-3 *:py-1 *:align-middle lg:rounded-[3rem] lg:text-[3rem]"
 >
 	<a
 		href={resolve("/")}
-		class="group text-ctp-text align-middle text-[3.5vw] font-black lg:text-[4.5rem]"
+		class="group text-ctp-text align-middle text-[3.5vw] font-black lg:text-[4.75rem]"
 	>
 		<b>☭ The Fall of the Soviet Union ☭</b></a
 	>
