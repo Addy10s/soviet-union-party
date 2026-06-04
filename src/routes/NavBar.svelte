@@ -7,7 +7,7 @@ import { resolve } from '$app/paths';
 >
 	<a
 		href={resolve("/")}
-		class="group text-ctp-text align-middle text-[4vw] font-black lg:text-[5rem]"
+		class="group text-ctp-text align-middle text-[3.5vw] font-black lg:text-[4.5rem]"
 	>
 		<b>☭ The Fall of the Soviet Union ☭</b></a
 	>
